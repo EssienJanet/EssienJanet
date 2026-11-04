@@ -1,38 +1,41 @@
-**Essien Janet Michael**
+Essien Janet
 
-🎯 **Data Analyst | Problem Solver | Insights-Driven Storyteller**
+🎯 Data Analyst | Researcher | Insights-Driven Storyteller
 
-I'm a passionate **Data Analyst** with  experiences in revealing insights and driving decisions using data. 
-My work focuses on transforming raw data into meaningful narratives that fuel growth and efficiency.
+I'm a data analyst and researcher interested in transforming data and information into meaningful insights that support better understanding and decision-making.
+
+My experience includes research writing, field data collection, data organisation, statistical analysis, and report preparation. I work with collected data by sorting, cleaning, and analysing it using tools such as Excel and SPSS, helping to interpret findings and present them clearly.
 
 🧠 What I Do
 
-- 🔍 **Data Cleaning & Wrangling** using **Excel**, **Python (Pandas, NumPy)**, and **R**
-- 📊 **Data Visualization** with **Power BI**, **Tableau** **Matplotlib**
-- 🗂️ **Database Management & Queries** using **MySQL**
-- 📈 **Business Intelligence Reporting** and building interactive dashboards
-- 🧪 **Statistical Analysis** and hypothesis testing for data-driven decisions
+Data Cleaning and Organisation using Excel and Google Sheets
 
-🛠️ Tools          
-Excel           
-Power BI        
-MySQL        
-Python          
-R Studio        
-Tableau
+Data Analysis and Visualisation using Power BI and Tableau
 
-📂 Projects
+Database Queries and Management using MySQL
 
-🧾 **Sales Dashboard in Power BI** – Visualizing monthly sales trends and KPIs  
-🐍 **Python Data Cleaning Project** – Handling missing data, outliers, and feature engineering  
-📊 **MySQL Query Analysis** – Writing optimized queries for business reports  
-📉 **R for Customer Churn Analysis** – Logistic regression and data modeling  
+Statistical Analysis using SPSS
 
- Let’s Connect
+Spreadsheet Automation using Google Sheets
 
-📧 Email: essienjanet62@gmail.com  
-🌐 LinkedIn: https://www.linkedin.com/in/janet-essien-20b58a147/ 
-🌍 Website: 
+Research Writing, Data Collection, Analysis, and Report Preparation
+
+Business Intelligence Reporting and Dashboard Development
+
+🛠️ Tools
+
+Excel | Power BI | Tableau | MySQL | SPSS | Google Sheets
+
+🔬 Research Interests
+
+I have an interest in research, particularly in exploring questions, gathering and analysing information, interpreting findings, and communicating insights. My research experience includes supporting data collection, preparing datasets for analysis, conducting statistical analysis, and contributing to research reports.
+
+Let's Connect
+
+Email: essienjanet62@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/janet-essien-20b58a147/
+
+]
 
 
-Thanks for visiting my GitHub!
